@@ -41,8 +41,8 @@ This project demonstrates how to integrate **dynamic design with functional QR c
 
 ## 🎥 Demo Video
 
-Watch the Flutter Colorful QR Code Generator in action on **X (formerly Twitter):**
-👉 [Watch the Demo Here](https://x.com/your_x_post_link)
+Watch the Flutter Colorful QR Code Generator in action on **X :**
+👉 [Watch the Demo Here](https://x.com/KishanP07684084/status/1947298006396449177)
 
 ---
 
@@ -112,9 +112,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 For questions, feedback, or collaborations:
 
-📧 **[your.email@example.com](mailto:your.email@example.com)**
-🐦 **[Follow me on X (Twitter)](https://x.com/your_profile)**
-💼 **[LinkedIn](https://linkedin.com/in/your_profile)**
+📧 **[your.email@example.com](coolmax17787@gmail.com)**
+🐦 **[Follow me on X (Twitter)](https://x.com/KishanP07684084)**
+💼 **[LinkedIn](https://www.linkedin.com/in/hom-bdr-pathak-01a3bb210)**
 
 ---
 
