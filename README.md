@@ -30,10 +30,33 @@ This project demonstrates how to integrate **dynamic design with functional QR c
 <div align="left">
   <table>
     <tr>
-      <td><img src="assets/screenshots/qr1.jpg" alt="Colorful QR Example 1" width="250"/></td>
-      <td><img src="assets/screenshots/qr2.jpg" alt="Colorful QR Example 2" width="250"/></td>
-      <td><img src="assets/screenshots/qr3.jpg" alt="Colorful QR Example 3" width="250"/></td>
+      <td><img src="screenshots/image4.jpg" alt="Colorful QR Example 1" width="250"/></td>
+      <td><img src="screenshots/image1.jpg" alt="Colorful QR Example 2" width="250"/></td>
+      <td><img src="screenshots/image3.jpg" alt="Colorful QR Example 3" width="250"/></td>
+      <td><img src="screenshots/image7.jpg" alt="Colorful QR Example 3" width="250"/></td>
     </tr>
+  </table>
+</div>
+
+<div align="left">
+  <table>
+    <tr>
+      <td><img src="screenshots/image10.jpg" alt="Test 1" width="250"/></td>
+      <td><img src="screenshots/image12.jpg" alt="Test 2" width="250"/></td>
+      <td><img src="screenshots/image5.jpg" alt="Test 3" width="250"/></td>
+      <td><img src="screenshots/image9.jpg" alt="Test 4" width="250"/></td>
+
+  </table>
+</div>
+
+<div align="left">
+  <table>
+    <tr>
+      <td><img src="screenshots/image11.jpg" alt="Test 1" width="250"/></td>
+      <td><img src="screenshots/image6.jpg" alt="Test 2" width="250"/></td>
+      <td><img src="screenshots/image8.jpg" alt="Test 3" width="250"/></td>
+      <td><img src="screenshots/image2.jpg" alt="Test 4" width="250"/></td>
+
   </table>
 </div>
 
