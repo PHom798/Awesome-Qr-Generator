@@ -15,6 +15,15 @@ This project demonstrates how to integrate **dynamic design with functional QR c
 
 ---
 
+## 🎬 Intro
+
+<div align="center">
+  
+  [![Flutter Color Palette Extractor Demo](screenshots/qrgen.png)]
+    
+</div>
+
+
 ## ✨ Features
 
 * 🎨 **Customizable QR Codes** — Choose from multiple color combinations and styles.
@@ -55,7 +64,7 @@ This project demonstrates how to integrate **dynamic design with functional QR c
       <td><img src="screenshots/image11.jpg" alt="Test 1" width="250"/></td>
       <td><img src="screenshots/image6.jpg" alt="Test 2" width="250"/></td>
       <td><img src="screenshots/image8.jpg" alt="Test 3" width="250"/></td>
-      <td><img src="screenshots/image2.jpg" alt="Test 4" width="250"/></td>
+      <td><img src="screenshots/image14.jpg" alt="Test 4" width="250"/></td>
 
   </table>
 </div>
