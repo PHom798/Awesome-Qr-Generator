@@ -136,6 +136,26 @@ Contributions are always welcome! To get started:
 
 ---
 
+🧠 Flutter Development Environment Setup
+
+This project is built using Flutter. Below are the essential details and configuration requirements for replicating the development environment.
+
+| Component              | Details                                      |
+| ---------------------- | -------------------------------------------- |
+| **Flutter Version**    | 3.27.1 (Stable Channel)                      |
+| **Framework Revision** | 17025dd882                                   |
+| **Engine Revision**    | cb4b5fff73                                   |
+| **Dart Version**       | 3.6.0                                        |
+| **DevTools Version**   | 2.40.2                                       |
+| **Operating System**   | Windows 10 (Version 10.0.26200.6725, 64-bit) |
+| **Locale**             | en-US                                        |
+
+
+💻 Android Studio
+
+* Version: 2023.3
+* Java Runtime: OpenJDK 17 (17.0.10+0--11572160)
+  
 ## 🪪 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
