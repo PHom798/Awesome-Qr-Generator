@@ -17,6 +17,13 @@ This project demonstrates how to integrate **dynamic design with functional QR c
 
 ## 🎬 Intro
 
+
+<div align="center">
+  
+  ![Qr Generator Pro](screenshots/sh1.png)
+    
+</div>
+
 <div align="center">
   
   ![Qr Generator Pro](screenshots/qrgen.png)
